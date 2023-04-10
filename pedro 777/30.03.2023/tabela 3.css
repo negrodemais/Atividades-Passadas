@@ -1,0 +1,13 @@
+table, td{
+    border: 1px solid black;
+    /*border-collapse: collapse; /* Bordas colapsem em uma única borda*/
+}
+
+table{
+    width: 500px;
+    height: 100px;
+}
+
+.linha2{
+    background-color: #39acac;
+}

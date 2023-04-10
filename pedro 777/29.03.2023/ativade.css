@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+table, td{
+    border: solid blue 2px;
+    border: 1px;
+}
+
+table{
+width: 777px;
+}
+th{
+    color: black;
+    background-color: darkgreen;
+}
